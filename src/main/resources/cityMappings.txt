@@ -1,0 +1,72 @@
+input_name,canonical_english
+Aix-la-Chapelle,Aachen
+Anvers,Antwerp
+Antwerpen,Antwerp
+Basil,Basel
+Basle,Basel
+Bozen,Bolzano
+Braunschweig,Brunswick
+Breslau,Wroclaw
+Brügge,Bruges
+Leghorn,Livorno
+Leipsic,Leipzig
+Lipswick,Leipzig
+Mailand,Milan
+Milano,Milan
+Minga,Munich
+Monachium,Munich
+München,Munich
+Köln,Cologne
+Colonia,Cologne
+Coleyn,Cologne
+Constance,Konstanz
+Florenz,Florence
+Genava,Geneva
+Danzig,Gdańsk
+Praha,Prague
+Prag,Prague
+Roma,Rome
+Ratisbon,Regensburg
+Ratisbona,Regensburg
+Stalingrad,Volgograd
+Tsaritsyn,Volgograd
+Wien,Vienna
+Wilna,Vilnius
+Vilna,Vilnius
+Augsburgh,Augsburg
+Blenheim,Blindheim
+Cleves,Kleve
+Coblence,Koblenz
+Coblenz,Koblenz
+Cassel,Kassel
+Dantzig,Gdańsk
+Dessaw,Dessau
+Dettingham,Dettingen
+Donow,Donau
+Durlack,Durlach
+Embden,Emden
+Friseland,Friesland
+Frisia,Friesland
+Frankford,Frankfurt
+Fribourg,Freiburg
+Friburgh,Freiburg
+Lipswick,Leipzig
+Lorraine,Lothringen
+Lucerne,Luzern
+Lunenburgh,Lüneburg
+Luxemburgh,Luxemburg
+Treves,Trier
+Trèves,Trier
+Saltsburgh,Salzburg
+Frankfurt a. M.,Frankfurt am Main
+Frankfurt a. Main,Frankfurt am Main
+Frankfurt a.M.,Frankfurt am Main
+Frankfurt/Main,Frankfurt am Main
+Frankfurt Main,Frankfurt am Main
+Frankfurt an der Oder,Frankfurt/Oder
+Frankfurt a. d. Oder,Frankfurt/Oder
+Frankfurt Oder,Frankfurt/Oder
+Frankfurt a.d.O.,Frankfurt/Oder
+Frankfurt a.d. Oder,Frankfurt/Oder
+Frankfurt,Frankfurt am Main
+

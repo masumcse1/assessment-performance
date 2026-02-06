@@ -1,0 +1,942 @@
+# EUROPÄISCHE ANREDEN UND TITEL
+# Maschinenlesbare ASCII-Liste für Namensvergleich und -filterung
+# Erstellt basierend auf umfassender Recherche europäischer Titel-Systeme
+#
+# Format: Ein Titel pro Zeile, ohne zusätzliche Zeichen
+# Verwendung: Diese Liste kann verwendet werden, um Titel aus Namen herauszufiltern
+#
+# ================================================================
+# GRUNDLEGENDE ANREDEN - DEUTSCH
+# ================================================================
+Herr
+Frau
+Fräulein
+Frl
+Hr
+Fr
+
+# ================================================================
+# GRUNDLEGENDE ANREDEN - ENGLISCH
+# ================================================================
+Mr
+Mr.
+Mrs
+Mrs.
+Miss
+Ms
+Ms.
+Mx
+Mx.
+Sir
+Madam
+Ma'am
+Master
+Mister
+Messrs
+Messrs.
+
+# ================================================================
+# GRUNDLEGENDE ANREDEN - FRANZÖSISCH
+# ================================================================
+Monsieur
+M
+M.
+Madame
+Mme
+Mme.
+Mademoiselle
+Mlle
+Mlle.
+Melle
+
+# ================================================================
+# GRUNDLEGENDE ANREDEN - SPANISCH
+# ================================================================
+Señor
+Sr
+Sr.
+Señora
+Sra
+Sra.
+Señorita
+Srta
+Srta.
+Don
+Doña
+
+# ================================================================
+# GRUNDLEGENDE ANREDEN - ITALIENISCH
+# ================================================================
+Signore
+Signor
+Sig
+Sig.
+Signora
+Sigra
+Sigra.
+Signorina
+Sigrina
+Sig.na
+
+# ================================================================
+# GRUNDLEGENDE ANREDEN - NIEDERLÄNDISCH
+# ================================================================
+Meneer
+Mijnheer
+Mevrouw
+Mevr
+Mevr.
+Juffrouw
+Jufv
+Jufv.
+Mejuffrouw
+Mejufv
+Mejufv.
+Dhr
+Dhr.
+
+# ================================================================
+# GRUNDLEGENDE ANREDEN - PORTUGIESISCH
+# ================================================================
+Senhor
+Senhor
+Senhora
+Senhorita
+Menina
+
+# ================================================================
+# GRUNDLEGENDE ANREDEN - ANDERE EUROPÄISCHE SPRACHEN
+# ================================================================
+# Polnisch
+Pan
+Pani
+Panna
+
+# Tschechisch
+Pán
+Paní
+Slečna
+
+# Dänisch/Norwegisch/Schwedisch
+Herr
+Fru
+Fröken
+Frøken
+Hr
+Fr
+
+# Ungarisch
+Úr
+Hölgy
+Kisasszony
+
+# Slowenisch/Kroatisch
+Gospod
+Gospa
+Gospodin
+Gospođa
+Gospodična
+Gospođica
+
+# Russisch (Transliteration)
+Gospodin
+Gospozha
+
+# ================================================================
+# ÖSTERREICHISCHE AKADEMISCHE TITEL
+# ================================================================
+Mag
+Mag.
+Maga
+Mag.a
+Magistra
+Magister
+Dipl.-Ing
+Dipl.Ing
+DI
+Bakk
+Bakk.
+BA
+B.A.
+BSc
+B.Sc.
+BEd
+B.Ed.
+MA
+M.A.
+MSc
+M.Sc.
+MEd
+M.Ed.
+LL.M
+LLM
+MAS
+MBA
+EMBA
+Dr
+Dr.
+Doktor
+Doktorin
+Dr.in
+PhD
+Ph.D.
+med.
+univ
+Dr.phil
+Dr. phil
+Dr.phil.
+Dr.med.univ
+Dr. med. univ
+Dr.med.dent
+Dr. med. dent
+Dr.med.vet
+Dr. med. vet
+Dr.rer.nat
+Dr. rer. nat
+Dr.iur
+Dr. iur
+Dr.theol
+Dr. theol
+Dr.techn
+Dr. techn
+Dr.mont
+Dr. mont
+Dr.agr
+Dr. agr
+Dr.scient.med
+Dr. scient. med
+Dr.h.c
+Dr. h. c
+Dr.h.c.mult
+Dr. h. c. mult
+Prof
+Prof.
+Professor
+Professorin
+Prof.h.c
+Prof. h. c
+Univ.-Prof
+Univ.Prof
+Univ.-Prof.
+o.Prof
+o.Prof.
+ao.Prof
+ao.Prof.
+Doz
+Doz.
+Dozent
+Dozentin
+PD
+Priv.-Doz
+Priv.Doz
+Privatdozent
+Ass.-Prof
+Ass.Prof
+Ass.-Prof.
+Hon.-Prof
+Hon.Prof
+Hon.-Prof.
+Mst
+Mst.
+Meister
+
+# ================================================================
+# DEUTSCHE AKADEMISCHE TITEL
+# ================================================================
+Dipl
+Dipl.
+Dipl.-Kfm
+Dipl.Kfm
+Dipl.-Volksw
+Dipl.-Betriebsw
+Dipl.-Päd
+Dipl.-Psych
+Dipl.-Soz
+Dipl.-Geogr
+Dipl.-Biol
+Dipl.-Chem
+Dipl.-Phys
+Dipl.-Math
+Dipl.-Inform
+Dipl.-Inf
+Dipl.-Wirt.-Ing
+Dipl.-Wi.-Ing
+Dipl.-Theol
+Dipl.-Hdl
+Dipl.-Bibl
+Dipl.-Oec
+Dipl.-Agr.-Ing
+Dipl.-Forst.-Ing
+Dipl.-Gartenbau.-Ing
+Dr.-Ing
+Dr.Ing
+Dr.-Ing.
+Dr.rer.pol
+Dr. rer. pol
+Dr.rer.oec
+Dr. rer. oec
+Dr.rer.soc
+Dr. rer. soc
+Dr.mult
+Dr. mult
+Dr.des
+Dr. des
+Dr.habil
+Dr. habil
+Bachelor
+Master
+Staatsexamen
+StEx
+
+# ================================================================
+# EUROPÄISCHE AKADEMISCHE TITEL
+# ================================================================
+# Französisch
+Docteur
+Professeur
+Maître
+Ing
+Ingénieur
+Licence
+Maîtrise
+DEA
+DESS
+DEUG
+
+# Spanisch
+Doctor
+Doctora
+Profesor
+Profesora
+Ingeniero
+Ingeniera
+Licenciado
+Licenciada
+Arquitecto
+Arquitecta
+
+# Italienisch
+Dottore
+Dottoressa
+Dott
+Dott.
+Dott.ssa
+Professore
+Professoressa
+Prof
+Prof.
+Prof.ssa
+Ingegnere
+Ing
+Ing.
+Architetto
+Avvocato
+
+# ================================================================
+# BERUFSTITEL
+# ================================================================
+Direktor
+Direktorin
+Dir
+Dir.
+Generaldirektor
+Generaldirektorin
+Geschäftsführer
+Geschäftsführerin
+Präsident
+Präsidentin
+Vizepräsident
+Vizepräsidentin
+Vorsitzender
+Vorsitzende
+Vorstand
+Vorständin
+Prokurist
+Prokuristin
+Kanzler
+Kanzlerin
+Rektor
+Rektorin
+Prorektor
+Prorektorin
+Dekan
+Dekanin
+Prodekan
+Prodekanin
+Studiendekan
+Studiendekanin
+Institutsdirektor
+Institutsdirektorin
+Abteilungsleiter
+Abteilungsleiterin
+Chefarzt
+Chefärztin
+Oberarzt
+Oberärztin
+Facharzt
+Fachärztin
+Rechtsanwalt
+Rechtsanwältin
+RA
+Notar
+Notarin
+Architekt
+Architektin
+Ingenieur
+Ingenieurin
+Ing
+Ing.
+Bauing
+Dipl.-Bauing
+Stadtplaner
+Stadtplanerin
+Vermessungsingenieur
+Vermessungsingenieurin
+Wirtschaftsprüfer
+Wirtschaftsprüferin
+WP
+Steuerberater
+Steuerberaterin
+StB
+Unternehmensberater
+Unternehmensberaterin
+
+# ================================================================
+# EUROPÄISCHE BERUFSTITEL
+# ================================================================
+# Englisch
+Director
+Manager
+Chairman
+Chairwoman
+Chief Executive
+CEO
+President
+Vice President
+Secretary
+Treasurer
+Engineer
+Architect
+Solicitor
+Barrister
+Consultant
+
+# Französisch
+Directeur
+Directrice
+Président
+Présidente
+Ingénieur
+Architecte
+Avocat
+Avocate
+Conseiller
+Conseillère
+
+# ================================================================
+# ADELSTITEL - DEUTSCH
+# ================================================================
+Kaiser
+Kaiserin
+König
+Königin
+Kronprinz
+Kronprinzin
+Prinz
+Prinzessin
+Erzherzog
+Erzherzogin
+Herzog
+Herzogin
+Großherzog
+Großherzogin
+Kurfürst
+Kurfürstin
+Fürst
+Fürstin
+Graf
+Gräfin
+Freigraf
+Freigräfin
+Landgraf
+Landgräfin
+Markgraf
+Markgräfin
+Pfalzgraf
+Pfalzgräfin
+Reichsgraf
+Reichsgräfin
+Wildgraf
+Wildgräfin
+Rheingraf
+Rheingräfin
+Baron
+Baronin
+Freiherr
+Freifrau
+Freiin
+Ritter
+Edler
+Edle
+Junker
+Junkerfrau
+von
+vom
+von der
+von dem
+zu
+zur
+zum
+
+# ================================================================
+# ADELSTITEL - FRANZÖSISCH
+# ================================================================
+Empereur
+Impératrice
+Roi
+Reine
+Dauphin
+Prince
+Princesse
+Duc
+Duchesse
+Marquis
+Marquise
+Comte
+Comtesse
+Vicomte
+Vicomtesse
+Baron
+Baronne
+Chevalier
+Seigneur
+Dame
+de
+du
+des
+de la
+
+# ================================================================
+# ADELSTITEL - ENGLISCH
+# ================================================================
+
+Duke
+Duchess
+Marquess
+Marchioness
+Earl
+Countess
+Viscount
+Viscountess
+Baron
+Baroness
+Baronet
+Dame
+Knight
+Lord
+Lady
+The Right Honourable
+The Most Honourable
+The Rt Hon
+The Most Hon
+His Grace
+Her Grace
+His Lordship
+Her Ladyship
+His Excellency
+Her Excellency
+
+# ================================================================
+# ADELSTITEL - SPANISCH
+# ================================================================
+Rey
+Reina
+Príncipe
+Princesa
+Duque
+Duquesa
+Marqués
+Marquesa
+Conde
+Condesa
+Vizconde
+Vizcondesa
+Barón
+Baronesa
+Hidalgo
+
+# ================================================================
+# ADELSTITEL - ITALIENISCH
+# ================================================================
+Re
+Regina
+Principe
+Principessa
+Duca
+Duchessa
+Marchese
+Marchesa
+Conte
+Contessa
+Visconte
+Viscontessa
+Barone
+Baronessa
+Nobile
+
+# ================================================================
+# ADELSTITEL - ANDERE EUROPÄISCHE
+# ================================================================
+# Niederländisch
+Koning
+Koningin
+Prins
+Prinses
+Hertog
+Hertogin
+Graaf
+Gravin
+Baron
+Barones
+Jonkheer
+Jonkvrouw
+Freule
+
+# Polnisch
+Król
+Królowa
+Książę
+Księżna
+Hrabia
+Hrabina
+
+# ================================================================
+# KIRCHLICHE TITEL
+# ================================================================
+Papst
+Kardinal
+Erzbischof
+Bischof
+Weihbischof
+Titularbischof
+Abt
+Äbtissin
+Prior
+Priorin
+Probst
+Pröpstin
+Dekan
+Dechant
+Pfarrer
+Pfarrerin
+Pastor
+Pastorin
+Kaplan
+Kaplanin
+Vikar
+Vikarin
+Diakon
+Diakonin
+Subdiakon
+Mönch
+Nonne
+Schwester
+Bruder
+Ehrwürden
+Hochwürden
+Hochehrwürden
+Seine Heiligkeit
+Seine Eminenz
+Seine Exzellenz
+Monsignore
+Msgr
+Msgr.
+
+# ================================================================
+# KIRCHLICHE TITEL - ANDERE SPRACHEN
+# ================================================================
+# Englisch
+Pope
+Cardinal
+Archbishop
+Bishop
+Abbot
+Abbess
+Prior
+Prioress
+Dean
+Rector
+Vicar
+Priest
+Deacon
+Monk
+Nun
+Sister
+Brother
+Father
+Mother
+The Most Reverend
+The Right Reverend
+The Very Reverend
+The Reverend
+Rev
+Rev.
+Most Rev
+Most Rev.
+Rt Rev
+Rt Rev.
+Very Rev
+Very Rev.
+His Holiness
+His Eminence
+His Excellency
+His Grace
+Your Holiness
+Your Eminence
+Your Excellency
+Your Grace
+Monsignor
+Msgr
+Msgr.
+
+# Französisch
+Pape
+Cardinal
+Archevêque
+Évêque
+Abbé
+Abbesse
+Prieur
+Prieure
+Doyen
+Curé
+Vicaire
+Prêtre
+Diacre
+Moine
+Religieuse
+Sœur
+Frère
+Père
+Mère
+Monseigneur
+Mgr
+Mgr.
+
+# Spanisch
+Papa
+Cardenal
+Arzobispo
+Obispo
+Abad
+Abadesa
+Prior
+Priora
+Párroco
+Vicario
+Sacerdote
+Diácono
+Monje
+Monja
+Hermana
+Hermano
+Padre
+Madre
+
+# Italienisch
+Papa
+Cardinale
+Arcivescovo
+Vescovo
+Abate
+Badessa
+Priore
+Priora
+Parroco
+Vicario
+Sacerdote
+Diacono
+Monaco
+Monaca
+Suora
+Fratello
+Padre
+Madre
+Monsignore
+
+# ================================================================
+# MILITÄRISCHE TITEL
+# ================================================================
+General
+Generaloberst
+Oberst
+Oberstleutnant
+Major
+Hauptmann
+Oberleutnant
+Leutnant
+Admiral
+Vizeadmiral
+Konteradmiral
+Kapitän
+Fregattenkapitän
+Korvettenkapitän
+Kapitänleutnant
+Oberleutnant zur See
+Leutnant zur See
+Marshal
+Field Marshal
+General
+Colonel
+Lieutenant Colonel
+Major
+Captain
+Lieutenant
+Second Lieutenant
+Admiral
+Vice Admiral
+Rear Admiral
+Commodore
+Commander
+Lieutenant Commander
+Lieutenant
+Sub Lieutenant
+Maréchal
+Général
+Colonel
+Lieutenant-colonel
+Commandant
+Capitaine
+Lieutenant
+Sous-lieutenant
+Amiral
+Vice-amiral
+Contre-amiral
+Capitaine de vaisseau
+Capitaine de frégate
+Capitaine de corvette
+Lieutenant de vaisseau
+Enseigne de vaisseau
+
+# ================================================================
+# ÖSTERREICHISCHE EHRENTITEL
+# ================================================================
+Hofrat
+Hofrätin
+Hofr
+Hofr.
+Ministerialrat
+Ministerialrätin
+Sektionschef
+Sektionschefin
+Sektionsrat
+Sektionsrätin
+Regierungsrat
+Regierungsrätin
+Oberregierungsrat
+Oberregierungsrätin
+Amtsrat
+Amtsrätin
+Oberamtsrat
+Oberamtsrätin
+Kommerzialrat
+Kommerzialrätin
+Kommr
+Kommr.
+Baurat
+Baurätin
+Oberbaurat
+Oberaurätin
+Sanitätsrat
+Sanitätsrätin
+Medizinalrat
+Medizinalrätin
+Studienrat
+Studienrätin
+Oberstudienrat
+Oberstudienrätin
+Schulrat
+Schulrätin
+Oberschulrat
+Oberschulrätin
+
+# ================================================================
+# DEUTSCHE AMTSTITEL
+# ================================================================
+Bürgermeister
+Bürgermeisterin
+Oberbürgermeister
+Oberbürgermeisterin
+Landrat
+Landrätin
+Regierungspräsident
+Regierungspräsidentin
+Ministerpräsident
+Ministerpräsidentin
+Minister
+Ministerin
+Staatsminister
+Staatsministerin
+Staatssekretär
+Staatssekretärin
+Bundesminister
+Bundesministerin
+Bundeskanzler
+Bundeskanzlerin
+Bundespräsident
+Bundespräsidentin
+
+# ================================================================
+# WEITERE EUROPÄISCHE TITEL
+# ================================================================
+# Schwedisch/Norwegisch/Dänisch
+Direktör
+Generaldirektör
+Professör
+Doktor
+Ingenjör
+Arkitekt
+
+# Finnisch
+Tohtori
+Professori
+Insinööri
+Arkkitehti
+
+# Russisch (Transliteration)
+Professor
+Doktor
+Kandidat
+Inzhener
+
+# ================================================================
+# HISTORISCHE UND SONSTIGE TITEL
+# ================================================================
+Excellenz
+Exzellenz
+Excellence
+Excellency
+Spectabilis
+Magnificus
+Magnifizenz
+Illustris
+Reverendissimus
+Eminentissimus
+Serenissimus
+Durchlaucht
+Hoheit
+Königliche Hoheit
+Kaiserliche Hoheit
+Großherzogliche Hoheit
+Fürstliche Hoheit
+Erlaucht
+Hochgeboren
+Wohlgeboren
+Wohlerwürden
+Hochwohlgeboren
+Wohlgelehrt
+Wohlweise
+
+# ================================================================
+# ENDE DER LISTE
+# ================================================================
